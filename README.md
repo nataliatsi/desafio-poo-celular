@@ -18,4 +18,8 @@ O projeto consiste nos seguintes arquivos:
 - `Iphone.java`: Contém a implementação da classe `Iphone`, que simula um iPhone e implementa as interfaces `AparelhoTelefonico`, `ReprodutorMusical` e `NavegadorInternet`.
 - `AparelhoTelefonico.java`, `ReprodutorMusical.java` e `NavegadorInternet.java`: Contêm as interfaces que definem os métodos para as funcionalidades do iPhone.
 
+## Diagrama UML
+![Diagrama de classes](/desafio-poo-celular/src/main/resources/diagrama/diagrama.png)
+
+
 Para acessar o desafio proposto pela Digital Innovation One, [clique aqui](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo).
